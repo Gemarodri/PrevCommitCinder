@@ -1,0 +1,9 @@
+{
+  "Id": "1423958",
+  "IdGerrit": "157879",
+  "Files": "cinder/volume/drivers/san/hp/hp_3par_iscsi.py",
+  "CommitParent": "f4f46e972004eca66e4751a836156c342e448621",
+  "CommitPrevious": "f3033898\n9ef47c28",
+  "Responsible": "Not_Responsible",
+  "Comments": "f3033898 is not responsible, it change the version of the file\n9ef47c28 is not responsible, the current patch uses the lines added in this commit."
+}
