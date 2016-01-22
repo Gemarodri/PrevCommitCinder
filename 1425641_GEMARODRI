@@ -1,0 +1,9 @@
+{
+  "Id": "1425641",
+  "IdGerrit": "162658",
+  "Files": "cinder/volume/drivers/emc/emc_vmax_common.py,cinder/volume/drivers/emc/emc_vmax_utils.py",
+  "CommitParent": "33b885381640861cc1fa3af65e95fc0cf619c9f0",
+  "CommitPrevious": "a75fe96c\nd94cc288\nd4d7b536\n92a81770",
+  "Responsible": "Atleastone",
+  "Comments": "a75fe96c is responsible,\nd94cc288 is not responsible it copied the same line 'else:'\nd4d7b536 is not responsible delete a blank line.\n92a81770 is not responsible they need add an extra argument\n"
+}
