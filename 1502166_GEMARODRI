@@ -4,6 +4,6 @@
   "Files": "cinder/volume/drivers/netapp/eseries/library.py",
   "CommitParent": "c9eef31820dc385a2c9f4ba24dd1d194f9e7d088",
   "CommitPrevious": "eccf433f",
-  "Responsible": "notResponsible",
+  "Responsible": "Not_Responsible",
   "Comments": "is not responsible, according to the log message says 'This patch restores compatibility with older versions where an exception would not be thrown'"
 }
