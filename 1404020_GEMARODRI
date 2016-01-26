@@ -4,6 +4,6 @@
   "Files": "cinder/api/v2/volumes.py",
   "CommitParent": "2cd5904eb809c117e849d4e5c1794ac8079ee14c",
   "CommitPrevious": "",
-  "Responsible": "Undefined",
+  "Responsible": "Undecided",
   "Comments": "We cannot know who is the responsible because there was only added lines"
 }
