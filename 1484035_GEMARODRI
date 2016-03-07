@@ -1,0 +1,9 @@
+{
+  "Id": "1484035",
+  "IdGerrit": "214340",
+  "Files": "cinder/volume/drivers/vmware/vmdk.py, setup.cfg",
+  "CommitParent": "c688a0af521e8679ac8f68d3dd035fe998e736d3",
+  "CommitPrevious": "e67adc38\n09bc9264",
+  "Responsible": "Responsible",
+  "Comments": "e67adc38 is responsible, the current commit reverts this commit\n09bc9264 is a false positive, it only added a blank line."
+}
