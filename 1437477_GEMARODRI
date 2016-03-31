@@ -3,7 +3,7 @@
   "IdGerrit": "168477",
   "Files": "cinder/image/glance.py",
   "CommitParent": "fac178fd58f06c146d96711e454c9397a574d15f",
-  "CommitPrevious": "171a57a6\n86e0125f \nb9d33d44",
+  "CommitPrevious": "171a57a6\n86e0125f\nb9d33d44",
   "Responsible": "Atleastone",
   "Comments": "171a57a6 is not responsible\n86e0125f is not responsible\nb9d33d44 is responsible"
 }

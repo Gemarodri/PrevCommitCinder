@@ -3,7 +3,7 @@
   "IdGerrit": "179991",
   "Files": "cinder/volume/drivers/vmware/vmdk.py",
   "CommitParent": "39478338bb4a1cbd625a6176d4403bb34a2a0630",
-  "CommitPrevious": "39478338 ",
+  "CommitPrevious": "39478338",
   "Responsible": "Responsible",
   "Comments": "39478338  is responsible because didn't configure well the certificate"
 }
